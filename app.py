@@ -15,12 +15,8 @@ phone_number = '+9647503898085'
 
 # === List of Telegram video message links and custom names ===
 video_links = [
-    ('https://t.me/c/2156135894/26', 'Lesson-5'),  # Example 1 with custom name
-    ('https://t.me/c/2156135894/31', 'Lesson-6'),
-    ('https://t.me/c/2156135894/35', 'Lesson-7'),  # Example 2 with custom name
-    ('https://t.me/c/2156135894/37', 'Lesson-8'),
-    ('https://t.me/c/2156135894/40', 'Lesson-9'),  # Example 3 with custom name
-    # Add more video links and custom names here
+    ('https://t.me/c/2156135894/42, 'Lesson-10'), 
+    
 ]
 
 # === Extract channel ID and message ID from link ===
