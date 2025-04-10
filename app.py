@@ -15,8 +15,7 @@ phone_number = '+9647503898085'
 
 # === List of Telegram video message links and custom names ===
 video_links = [
-    ('https://t.me/c/2156135894/42, 'Lesson-10'), 
-    
+    ('https://t.me/c/2156135894/42', 'Lesson-10'),  # Fixed the string issue
 ]
 
 # === Extract channel ID and message ID from link ===
